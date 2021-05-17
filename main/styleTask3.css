@@ -1,0 +1,18 @@
+
+.container {
+    margin-top: 50px;
+    max-width: 1000px;
+}
+
+.background-color {
+    background-color: #008cff;
+}
+
+.text-through {
+    text-decoration: line-through ;
+}
+
+.clean-link {
+    color: black;
+    text-decoration: none;
+}
